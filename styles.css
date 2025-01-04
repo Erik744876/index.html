@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Цвет фона */
+    font-family: Arial, sans-serif; /* Шрифт */
+    text-align: center; /* Центрирование текста */
+    padding-top: 50px; /* Отступ сверху */
+}
+
+a {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #007BFF; /* Цвет ссылки */
+    font-size: 20px; /* Размер шрифта */
+}
+
+a:hover {
+    text-decoration: underline; /* Подчеркивание при наведении */
+}
